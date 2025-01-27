@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student from [School of EECS](https://eecs.uq.edu.au/), [The University of Queensland (UQ)](https://www.uq.edu.au/), supervised by Prof. Hongzhi Yin(https://sites.google.com/view/hongzhi-yin/home). Previously, from July to September 2024, I did a research internship at Tsinghua University, working under the guidance of Asst. Prof. Chen Gao(https://fi.ee.tsinghua.edu.cn/~gaochen/). In June 2024, I completed my master's degree at Chongqing University, supervised by Prof. Junhao Wen(https://www.cse.cqu.edu.cn/info/2095/3491.htm).
+I'm a first-year PhD student from [School of EECS](https://eecs.uq.edu.au/), [The University of Queensland (UQ)](https://www.uq.edu.au/), supervised by [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). Previously, from July to September 2024, I did a research internship at Tsinghua University, working under the guidance of [Asst. Prof. Chen Gao](https://fi.ee.tsinghua.edu.cn/~gaochen/). In June 2024, I completed my master's degree at Chongqing University, supervised by [Prof. Junhao Wen](https://www.cse.cqu.edu.cn/info/2095/3491.htm).
 
 My research interests mainly include Sequential Recommendation, Session-based Recommendation, and Large Language Model-based Recommendation.
 
