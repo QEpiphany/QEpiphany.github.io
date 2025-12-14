@@ -13,7 +13,9 @@ I'm a first-year PhD student from [School of EECS](https://eecs.uq.edu.au/), [Th
 My research interests mainly include: 
 * Sequential Recommendation
 * Session-based Recommendation
-* LLM-based Recommendation.
+* LLM-based Recommendation
+* Generative Recommendation
+* Shilling Attack
 
 
 News
