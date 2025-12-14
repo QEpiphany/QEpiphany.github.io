@@ -18,10 +18,8 @@ My research interests mainly include:
 
 News
 ======
-| Date         | News |
-|:------------ |:-----|
-| Aug. 04, 2025| We released a new paper on Shilling Attack in Recommender Systems. |
-| Mar. 07, 2025| We released a new survey paper on LLM Agent in information retrieval. |
+* Aug. 04, 2025 | We released a new paper on Shilling Attack in Recommender Systems. 
+* Mar. 07, 2025 | We released a new survey paper on LLM Agent in information retrieval. 
 
 
 Survey
