@@ -34,13 +34,13 @@ Survey
 Selected Publications
 ------
 1. [Multi-view Intent Learning and Alignment with Large Language Models for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3614791)<br>
-   *ACM Transactions on Information Systems (TOIS), 2025*<br>
+   *ACM Transactions on Information Systems (TOIS) **[CCF-A]**, 2025*<br>
    **Shutong, Qiao**, Wei Zhou, Junhao Wen, Chen Gao, Qun Luo, Peixuan Chen, Yong Li
 2. [Bi-channel multiple sparse graph attention networks for session-based recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3614791)<br>
-   *ACM International Conference on Information and Knowledge Management (CIKM), 2023*<br>
+   *ACM International Conference on Information and Knowledge Management (CIKM) **[CCF-B]**, 2023*<br>
    **Shutong, Qiao**, Wei Zhou, Junhao Wen, Hongyu Zhang, Min Gao
 3. [Noise-reducing graph neural network with intent-target co-action for session-based recommendation](https://www.sciencedirect.com/science/article/pii/S0306457323002546)
-   *Information Processing & Management (IPM), 2023*<br>
+   *Information Processing & Management (IPM) **[CCF-B]**, 2023*<br>
    **Shutong Qiao**, Wei Zhou, Fengji Luo, Junhao Wen
    
 
@@ -50,10 +50,10 @@ Other Publications
    *Arxiv, 2025*<br>
    **Shutong Qiao**, Wei Yuan, Junliang Yu, Tong Chen, Quoc Viet Hung Nguyen, Hongzhi Yin
 2. [Enhancing sequential recommendation with contrastive generative adversarial network](https://www.sciencedirect.com/science/article/pii/S0306457323000687)
-   *Information Processing & Management (IPM), 2023*<br>
+   *Information Processing & Management (IPM) **[CCF-B]**, 2023*<br>
    Shuang Ni, Wei Zhou, Junhao Wen, Linfeng Hu, **Shutong Qiao**
 3. [Multi-perspective enhanced representation for effective session-based recommendation](https://www.sciencedirect.com/science/article/pii/S0950705123000345)
-   *Knowledge-Based Systems (KBS), 2023*<br>
+   *Knowledge-Based Systems (KBS) **[CCF-C]**, 2023*<br>
    **Shutong Qiao**, Wei Zhou, Junhao Wen, Hongyu Wang, Linfeng Hu, Shuang Ni
 
 
