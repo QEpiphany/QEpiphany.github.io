@@ -61,4 +61,5 @@ Awards
 ------
 1. China Scholarship Council (CSC) Scholarship, 2024
 2. China National Scholarship, 2024
+3. Excellent Graduate, Chongqing University, 2024.
 
