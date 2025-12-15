@@ -31,7 +31,7 @@ Survey
    
 
 Selected Publications
-------
+======
 1. [Multi-view Intent Learning and Alignment with Large Language Models for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3614791)<br>
    *ACM Transactions on Information Systems (TOIS) **[CCF-A]**, 2025*<br>
    **Shutong Qiao**, Wei Zhou, Junhao Wen, Chen Gao, Qun Luo, Peixuan Chen, Yong Li
@@ -44,7 +44,7 @@ Selected Publications
    
 
 Other Publications
-------
+======
 1. [Controllable and Stealthy Shilling Attacks via Dispersive Latent Diffusion](https://arxiv.org/abs/2508.01987)<br>
    *Arxiv, 2025*<br>
    **Shutong Qiao**, Wei Yuan, Junliang Yu, Tong Chen, Quoc Viet Hung Nguyen, Hongzhi Yin
@@ -64,7 +64,7 @@ Other Publications
 
 
 Awards
-------
+======
 1. China Scholarship Council (CSC) Scholarship, 2024
 2. China National Scholarship, 2024
 3. Excellent Graduate, Chongqing University, 2024.
