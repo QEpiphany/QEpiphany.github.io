@@ -19,7 +19,7 @@ My research interests mainly include:
 
 News
 ======
-* Jan. 21, 2025 | We released a new paper on Semantic IDs in Generative Recommendation (An Empirical Study). 
+* JAN. 21, 2025 | We released a new paper on Semantic IDs in Generative Recommendation (An Empirical Study). 
 * Aug. 04, 2025 | We released a new paper on Shilling Attack in Recommender Systems. 
 * Mar. 07, 2025 | We released a new survey paper on LLM Agent in information retrieval. 
 
