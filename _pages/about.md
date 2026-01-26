@@ -19,6 +19,7 @@ My research interests mainly include:
 
 News
 ======
+* Jan. 21, 2025 | We released a new paper on Semantic IDs in Generative Recommendation (An Empirical Study). 
 * Aug. 04, 2025 | We released a new paper on Shilling Attack in Recommender Systems. 
 * Mar. 07, 2025 | We released a new survey paper on LLM Agent in information retrieval. 
 
@@ -45,19 +46,22 @@ Selected Publications
 
 Other Publications
 ======
-1. [Controllable and Stealthy Shilling Attacks via Dispersive Latent Diffusion](https://arxiv.org/abs/2508.01987)<br>
+1.[When Text-as-Vision Meets Semantic IDs in Generative Recommendation: An Empirical Study](https://arxiv.org/abs/2601.14697)<br>
+   *Arxiv, 2026*<br>
+   **Shutong Qiao**, Wei Yuan, Tong Chen, Xiangyu Zhao, Quoc Viet Hung Nguyen, Hongzhi Yin
+2. [Controllable and Stealthy Shilling Attacks via Dispersive Latent Diffusion](https://arxiv.org/abs/2508.01987)<br>
    *Arxiv, 2025*<br>
    **Shutong Qiao**, Wei Yuan, Junliang Yu, Tong Chen, Quoc Viet Hung Nguyen, Hongzhi Yin
-2. [LLM-based Bi-level Multi-interest Learning Framework for Sequential Recommendation](https://arxiv.org/abs/2411.09410)<br>
+3. [LLM-based Bi-level Multi-interest Learning Framework for Sequential Recommendation](https://arxiv.org/abs/2411.09410)<br>
    *Arxiv, 2024*<br>
    **Shutong Qiao**, Chen Gao, Wei Yuan, Yong Li, Hongzhi Yin
-3. [Multiple hypergraph convolutional network social recommendation using dual contrastive learning](https://link.springer.com/article/10.1007/s10618-024-01021-2)<br>
+4. [Multiple hypergraph convolutional network social recommendation using dual contrastive learning](https://link.springer.com/article/10.1007/s10618-024-01021-2)<br>
    *Data Mining and Knowledge Discovery **[CCF-B]**, 2024*<br>
    Hongyu Wang, Wei Zhou, Junhao Wen, **Shutong Qiao**
-4. [Enhancing sequential recommendation with contrastive generative adversarial network](https://www.sciencedirect.com/science/article/pii/S0306457323000687)
+5. [Enhancing sequential recommendation with contrastive generative adversarial network](https://www.sciencedirect.com/science/article/pii/S0306457323000687)
    *Information Processing & Management (IPM) **[CCF-B]**, 2023*<br>
    Shuang Ni, Wei Zhou, Junhao Wen, Linfeng Hu, **Shutong Qiao**
-5. [Multi-perspective enhanced representation for effective session-based recommendation](https://www.sciencedirect.com/science/article/pii/S0950705123000345)
+6. [Multi-perspective enhanced representation for effective session-based recommendation](https://www.sciencedirect.com/science/article/pii/S0950705123000345)
    *Knowledge-Based Systems (KBS) **[CCF-C]**, 2023*<br>
    **Shutong Qiao**, Wei Zhou, Junhao Wen, Hongyu Wang, Linfeng Hu, Shuang Ni
 
