@@ -46,7 +46,7 @@ Selected Publications
 
 Other Publications
 ======
-1.[When Text-as-Vision Meets Semantic IDs in Generative Recommendation: An Empirical Study](https://arxiv.org/abs/2601.14697)<br>
+1. [When Text-as-Vision Meets Semantic IDs in Generative Recommendation: An Empirical Study](https://arxiv.org/abs/2601.14697)<br>
    *Arxiv, 2026*<br>
    **Shutong Qiao**, Wei Yuan, Tong Chen, Xiangyu Zhao, Quoc Viet Hung Nguyen, Hongzhi Yin
 2. [Controllable and Stealthy Shilling Attacks via Dispersive Latent Diffusion](https://arxiv.org/abs/2508.01987)<br>
