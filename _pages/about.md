@@ -46,7 +46,7 @@ Selected Publications
     <h3 class="publication-card__title"><a href="https://dl.acm.org/doi/10.1145/3719344">Multi-view Intent Learning and Alignment with Large Language Models for Session-based Recommendation</a></h3>
     <p class="publication-card__venue"><span class="publication-badge publication-badge--venue">TOIS 2025</span><span class="publication-badge publication-badge--ccf-a">CCF-A</span></p>
     <p class="publication-card__authors"><strong>Shutong Qiao</strong>, Wei Zhou, Junhao Wen, Chen Gao, Qun Luo, Peixuan Chen, Yong Li</p>
-    <p class="publication-card__links"><a href="https://dl.acm.org/doi/10.1145/3719344">Paper</a><a href="https://github.com/tsinghua-fib-lab/LLM4SBR">Code</a></p>
+    <p class="publication-card__links"><a href="https://dl.acm.org/doi/10.1145/3719344">Paper</a></p>
   </article>
 
   <article class="publication-card">
