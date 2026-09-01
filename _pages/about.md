@@ -27,19 +27,22 @@ News
 Survey
 ======
 1. [A survey of large language model empowered agents for recommendation and search: Towards next-generation information retrieval](https://arxiv.org/abs/2503.05659)<br>
-   *Arxiv, 2025*<br>
+   *ACM Transactions on Information Systems (TOIS) **[CCF-A]**, 2026*<br>
    Yu Zhang, **Shutong Qiao** *(co-first author; listed 2nd)*, Jiaqi Zhang, Tzu-Heng Lin, Chen Gao, Yong Li
    
 
 Selected Publications
 ======
-1. [Multi-view Intent Learning and Alignment with Large Language Models for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3614791)<br>
+1. [A survey of large language model empowered agents for recommendation and search: Towards next-generation information retrieval](https://arxiv.org/abs/2503.05659)<br>
+   *ACM Transactions on Information Systems (TOIS) **[CCF-A]**, 2026*<br>
+   Yu Zhang, **Shutong Qiao** *(co-first author; listed 2nd)*, Jiaqi Zhang, Tzu-Heng Lin, Chen Gao, Yong Li
+2. [Multi-view Intent Learning and Alignment with Large Language Models for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3614791)<br>
    *ACM Transactions on Information Systems (TOIS) **[CCF-A]**, 2025*<br>
    **Shutong Qiao**, Wei Zhou, Junhao Wen, Chen Gao, Qun Luo, Peixuan Chen, Yong Li
-2. [Bi-channel multiple sparse graph attention networks for session-based recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3614791)<br>
+3. [Bi-channel multiple sparse graph attention networks for session-based recommendation](https://dl.acm.org/doi/abs/10.1145/3583780.3614791)<br>
    *ACM International Conference on Information and Knowledge Management (CIKM) **[CCF-B]**, 2023*<br>
    **Shutong Qiao**, Wei Zhou, Junhao Wen, Hongyu Zhang, Min Gao
-3. [Noise-reducing graph neural network with intent-target co-action for session-based recommendation](https://www.sciencedirect.com/science/article/pii/S0306457323002546)
+4. [Noise-reducing graph neural network with intent-target co-action for session-based recommendation](https://www.sciencedirect.com/science/article/pii/S0306457323002546)
    *Information Processing & Management (IPM) **[CCF-B]**, 2023*<br>
    **Shutong Qiao**, Wei Zhou, Fengji Luo, Junhao Wen
    
@@ -73,3 +76,8 @@ Awards
 2. China National Scholarship, 2024
 3. Excellent Graduate, Chongqing University, 2024.
 
+Visitors
+======
+<div style="text-align: center; max-width: 100%; overflow: hidden;">
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=AEa7qS3zsPfpOCQMa4DTLKN-YcwKPWCovDFnVEm2mFA&amp;cl=ffffff&amp;w=a"></script>
+</div>
