@@ -399,3 +399,100 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+/* Academic homepage publication cards
+   ========================================================================== */
+.publication-grid {
+  display: grid;
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+
+.publication-card {
+  padding: 1.1rem 1.25rem;
+  border: 1px solid $border-color;
+  border-left: 4px solid #2f7fbd;
+  border-radius: 7px;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(34, 60, 80, 0.07);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(34, 60, 80, 0.12);
+  }
+}
+
+.publication-card__title {
+  margin: 0 0 0.55rem;
+  font-size: 1rem;
+  line-height: 1.45;
+
+  a {
+    color: $text-color;
+    text-decoration: none;
+
+    &:hover {
+      color: $link-color;
+    }
+  }
+}
+
+.publication-card__venue,
+.publication-card__authors,
+.publication-card__links {
+  margin: 0.45rem 0 0;
+}
+
+.publication-card__authors {
+  color: mix(#fff, $text-color, 20%);
+  font-size: 0.82rem;
+  line-height: 1.55;
+}
+
+.publication-badge {
+  display: inline-block;
+  margin: 0 0.35rem 0.25rem 0;
+  padding: 0.18rem 0.5rem;
+  border-radius: 999px;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.publication-badge--venue {
+  color: #1f5f8b;
+  background: #eaf4fb;
+}
+
+.publication-badge--ccf-a {
+  color: #a63a2b;
+  background: #fcede9;
+}
+
+.publication-badge--ccf-b {
+  color: #8a6116;
+  background: #fff4d6;
+}
+
+.publication-card__links a {
+  display: inline-block;
+  margin-right: 0.45rem;
+  padding: 0.28rem 0.65rem;
+  border: 1px solid $link-color;
+  border-radius: 4px;
+  color: $link-color;
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-decoration: none;
+
+  &:hover {
+    color: #fff;
+    background: $link-color;
+  }
+}
+
+@media (max-width: 600px) {
+  .publication-card {
+    padding: 0.9rem 1rem;
+  }
+}
