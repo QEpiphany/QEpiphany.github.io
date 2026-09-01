@@ -19,11 +19,24 @@ My research interests mainly include:
 
 News
 ======
-* SEP. 01, 2026 | Our survey on LLM-empowered agents for recommendation and search has been accepted by ACM TOIS.
-* JAN. 21, 2026 | We released a new paper on Semantic IDs in Generative Recommendation (An Empirical Study). 
-* AUG. 04, 2025 | We released a new paper on Shilling Attack in Recommender Systems. 
-* MAR. 07, 2025 | We released a new survey paper on LLM Agent in information retrieval. 
-
+<div class="news-list">
+  <div class="news-item">
+    <time datetime="2026-09">Sep 2026</time>
+    <p>Our survey on LLM-empowered agents for recommendation and search has been accepted by <strong>ACM TOIS</strong>.</p>
+  </div>
+  <div class="news-item">
+    <time datetime="2026-01-21">Jan 2026</time>
+    <p>We released a new paper on Semantic IDs in Generative Recommendation (An Empirical Study).</p>
+  </div>
+  <div class="news-item">
+    <time datetime="2025-08-04">Aug 2025</time>
+    <p>We released a new paper on shilling attacks in recommender systems.</p>
+  </div>
+  <div class="news-item">
+    <time datetime="2025-03-07">Mar 2025</time>
+    <p>We released a new survey on LLM agents for information retrieval.</p>
+  </div>
+</div>
 
 Survey
 ======
