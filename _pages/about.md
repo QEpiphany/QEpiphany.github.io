@@ -100,6 +100,12 @@ Other Publications
 
 
 
+Academic Service
+======
+
+- **PC Member:** WWW 2026; SIGIR 2025, 2026
+- **Journal Reviewer:** ACM TOIS; Information Processing & Management; Neural Networks
+
 Awards
 ======
 1. China Scholarship Council (CSC) Scholarship, 2024
