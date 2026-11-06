@@ -21,6 +21,10 @@ News
 ======
 <div class="news-list">
   <div class="news-item">
+    <time datetime="2026-11">Nov 2026</time>
+    <p>Two papers accepted at <strong>WSDM 2027</strong>.</p>
+  </div>
+  <div class="news-item">
     <time datetime="2026-09">Sep 2026</time>
     <p>Our survey on LLM-empowered agents for recommendation and search has been accepted by <strong>ACM TOIS</strong>.</p>
   </div>
@@ -48,6 +52,20 @@ Survey
 Selected Publications
 ======
 <div class="publication-grid">
+  <article class="publication-card">
+    <h3 class="publication-card__title"><a href="https://arxiv.org/abs/2508.01987">Controllable and Stealthy Shilling Attacks via Dispersive Latent Diffusion</a></h3>
+    <p class="publication-card__venue"><span class="publication-badge publication-badge--venue">WSDM 2027</span></p>
+    <p class="publication-card__authors"><strong>Shutong Qiao</strong>, Wei Yuan, Junliang Yu, Tong Chen, Quoc Viet Hung Nguyen, Hongzhi Yin</p>
+    <p class="publication-card__links"><a href="https://arxiv.org/abs/2508.01987">arXiv</a></p>
+  </article>
+
+  <article class="publication-card">
+    <h3 class="publication-card__title"><a href="https://arxiv.org/abs/2601.13505">Integrating Vision-Centric Text Understanding for Conversational Recommender Systems</a></h3>
+    <p class="publication-card__venue"><span class="publication-badge publication-badge--venue">WSDM 2027</span></p>
+    <p class="publication-card__authors">Wei Yuan, <strong>Shutong Qiao</strong>, Tong Chen, Quoc Viet Hung Nguyen, Zi Huang, Hongzhi Yin</p>
+    <p class="publication-card__links"><a href="https://arxiv.org/abs/2601.13505">arXiv</a></p>
+  </article>
+
   <article class="publication-card">
     <h3 class="publication-card__title"><a href="https://arxiv.org/abs/2503.05659">A survey of large language model empowered agents for recommendation and search: Towards next-generation information retrieval</a></h3>
     <p class="publication-card__venue"><span class="publication-badge publication-badge--venue">TOIS 2026</span><span class="publication-badge publication-badge--ccf-a">CCF-A</span></p>
@@ -82,19 +100,16 @@ Other Publications
 1. [When Text-as-Vision Meets Semantic IDs in Generative Recommendation: An Empirical Study](https://arxiv.org/abs/2601.14697)<br>
    *arXiv, 2026*<br>
    **Shutong Qiao**, Wei Yuan, Tong Chen, Xiangyu Zhao, Quoc Viet Hung Nguyen, Hongzhi Yin
-2. [Controllable and Stealthy Shilling Attacks via Dispersive Latent Diffusion](https://arxiv.org/abs/2508.01987)<br>
-   *arXiv, 2025*<br>
-   **Shutong Qiao**, Wei Yuan, Junliang Yu, Tong Chen, Quoc Viet Hung Nguyen, Hongzhi Yin
-3. [LLM-based Bi-level Multi-interest Learning Framework for Sequential Recommendation](https://arxiv.org/abs/2411.09410)<br>
+2. [LLM-based Bi-level Multi-interest Learning Framework for Sequential Recommendation](https://arxiv.org/abs/2411.09410)<br>
    *arXiv, 2024*<br>
    **Shutong Qiao**, Chen Gao, Wei Yuan, Yong Li, Hongzhi Yin
-4. [Multiple hypergraph convolutional network social recommendation using dual contrastive learning](https://link.springer.com/article/10.1007/s10618-024-01021-2)<br>
+3. [Multiple hypergraph convolutional network social recommendation using dual contrastive learning](https://link.springer.com/article/10.1007/s10618-024-01021-2)<br>
    *Data Mining and Knowledge Discovery **[CCF-B]**, 2024*<br>
    Hongyu Wang, Wei Zhou, Junhao Wen, **Shutong Qiao**
-5. [Enhancing sequential recommendation with contrastive generative adversarial network](https://www.sciencedirect.com/science/article/pii/S0306457323000687)
+4. [Enhancing sequential recommendation with contrastive generative adversarial network](https://www.sciencedirect.com/science/article/pii/S0306457323000687)
    *Information Processing & Management (IPM) **[CCF-B]**, 2023*<br>
    Shuang Ni, Wei Zhou, Junhao Wen, Linfeng Hu, **Shutong Qiao**
-6. [Multi-perspective enhanced representation for effective session-based recommendation](https://www.sciencedirect.com/science/article/pii/S0950705123000345)
+5. [Multi-perspective enhanced representation for effective session-based recommendation](https://www.sciencedirect.com/science/article/pii/S0950705123000345)
    *Knowledge-Based Systems (KBS) **[CCF-C]**, 2023*<br>
    **Shutong Qiao**, Wei Zhou, Junhao Wen, Hongyu Wang, Linfeng Hu, Shuang Ni
 
