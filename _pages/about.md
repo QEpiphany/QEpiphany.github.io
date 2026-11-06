@@ -114,7 +114,7 @@ Other Publications
 Academic Service
 ======
 
-- **PC Member:** WWW 2026; SIGIR 2025, 2026
+- **PC Member:** WWW 2026, 2027; SIGIR 2025, 2026
 - **Journal Reviewer:** ACM TOIS; Information Processing & Management; Neural Networks
 
 Awards
