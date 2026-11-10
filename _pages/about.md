@@ -29,16 +29,12 @@ News
     <p>Our survey on LLM-empowered agents for recommendation and search has been accepted by <strong>ACM TOIS</strong>.</p>
   </div>
   <div class="news-item">
+    <time datetime="2026-07-28">Jul 2026</time>
+    <p>Our paper <a href="https://arxiv.org/abs/2607.25209">VaLiDRec: Variable-Length LLM-Aligned Semantic IDs for Generative Recommendation</a> is now available on arXiv.</p>
+  </div>
+  <div class="news-item">
     <time datetime="2026-01-21">Jan 2026</time>
     <p>We released a new paper on Semantic IDs in Generative Recommendation (An Empirical Study).</p>
-  </div>
-  <div class="news-item">
-    <time datetime="2025-08-04">Aug 2025</time>
-    <p>We released a new paper on shilling attacks in recommender systems.</p>
-  </div>
-  <div class="news-item">
-    <time datetime="2025-03-07">Mar 2025</time>
-    <p>We released a new survey on LLM agents for information retrieval.</p>
   </div>
 </div>
 
