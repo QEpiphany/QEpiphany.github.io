@@ -30,7 +30,7 @@ News
   </div>
   <div class="news-item">
     <time datetime="2026-07-28">Jul 2026</time>
-    <p>We released a new paper on <a href="https://arxiv.org/abs/2607.25209">variable-length, LLM-aligned semantic IDs for generative recommendation</a>.</p>
+    <p>We released a new paper on variable-length, LLM-aligned semantic IDs for generative recommendation.</p>
   </div>
   <div class="news-item">
     <time datetime="2026-01-21">Jan 2026</time>
