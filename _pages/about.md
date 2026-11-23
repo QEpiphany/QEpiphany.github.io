@@ -102,10 +102,13 @@ Other Publications
 4. [Multiple hypergraph convolutional network social recommendation using dual contrastive learning](https://link.springer.com/article/10.1007/s10618-024-01021-2)<br>
    *Data Mining and Knowledge Discovery **[CCF-B]**, 2024*<br>
    Hongyu Wang, Wei Zhou, Junhao Wen, **Shutong Qiao**
-5. [Enhancing sequential recommendation with contrastive generative adversarial network](https://www.sciencedirect.com/science/article/pii/S0306457323000687)
+5. [Noise-reducing graph neural network with intent-target co-action for session-based recommendation](https://www.sciencedirect.com/science/article/pii/S0306457323002546)<br>
+   *Information Processing & Management (IPM) **[CCF-B]**, 2023*<br>
+   **Shutong Qiao**, Wei Zhou, Fengji Luo, Junhao Wen
+6. [Enhancing sequential recommendation with contrastive generative adversarial network](https://www.sciencedirect.com/science/article/pii/S0306457323000687)
    *Information Processing & Management (IPM) **[CCF-B]**, 2023*<br>
    Shuang Ni, Wei Zhou, Junhao Wen, Linfeng Hu, **Shutong Qiao**
-6. [Multi-perspective enhanced representation for effective session-based recommendation](https://www.sciencedirect.com/science/article/pii/S0950705123000345)
+7. [Multi-perspective enhanced representation for effective session-based recommendation](https://www.sciencedirect.com/science/article/pii/S0950705123000345)
    *Knowledge-Based Systems (KBS) **[CCF-C]**, 2023*<br>
    **Shutong Qiao**, Wei Zhou, Junhao Wen, Hongyu Wang, Linfeng Hu, Shuang Ni
 
